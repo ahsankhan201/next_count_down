@@ -2,7 +2,7 @@ import type { NextPage } from "next";
 import linkIcon from "../../assets/icon/link.png";
 import twitterIcon from "../../assets/icon/twitter.png";
 import facebookIcon from "../../assets/icon/FacebookIcon.png";
-import styles from "../../styles/Home.module.scss";
+import styles from "../../styles/home.module.scss";
 import Image from "next/image";
 interface Props {
   links: {

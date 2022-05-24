@@ -7,10 +7,10 @@ const MainCountDown: NextPage = () => {
   const [date, setDate] = useState(new Date("26 may 2022"));
   const [isOpen, setOpen] = useState(false);
   const [links, setLinks] = useState({
-    facebookLink: "https://moonparty.xn--com-9o0a ",
-    twitterLink: "https://moonparty.xn--com-9o0a ",
+    facebookLink: "https://moonparty.com",
+    twitterLink: "https://moonparty.com",
     setOpen: setOpen,
-    urlData: "https://moonparty.xn--com-9o0a ",
+    urlData: "https://moonparty.com",
   });
 
   return (
